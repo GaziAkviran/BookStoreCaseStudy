@@ -1,0 +1,103 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Anasayfa";
+}
+
+
+@model PointBooks.Models.ViewModels.HomeIndexViewModel
+
+<!-- Slider Section -->
+<div class="container">
+    <div id="bookCarousel" class="carousel slide" data-ride="carousel" data-interval="5000">
+        <ol class="carousel-indicators">
+            <li data-target="#bookCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#bookCarousel" data-slide-to="1"></li>
+            <li data-target="#bookCarousel" data-slide-to="2"></li>
+            <li data-target="#bookCarousel" data-slide-to="3"></li>
+            <li data-target="#bookCarousel" data-slide-to="4"></li>
+        </ol>
+
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="~/images/slider/Slider1.png" class="d-block w-100" alt="First Slider">
+            </div>
+            <div class="carousel-item">
+                <img src="~/images/slider/Slider2.png" class="d-block w-100" alt="Second Slider">
+            </div>
+            <div class="carousel-item">
+                <img src="~/images/slider/Slider3.png" class="d-block w-100" alt="Third Slider">
+            </div>
+            <div class="carousel-item">
+                <img src="~/images/slider/Slider4.png" class="d-block w-100" alt="Fourth Slider">
+            </div>
+            <div class="carousel-item">
+                <img src="~/images/slider/Slider5.png" class="d-block w-100" alt="Fifth Slider">
+            </div>
+        </div>
+
+        <a class="carousel-control-prev" href="#bookCarousel" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Önceki</span>
+        </a>
+        <a class="carousel-control-next" href="#bookCarousel" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Sonraki</span>
+        </a>
+    </div>
+</div>
+
+ <div class="text-center mt-3">
+        <button class="offer-button btn btn-danger">Yeni Geldi: Ripley'in Oyunu 172TL</button>
+ </div>
+
+ <div class="search-images-container">
+    <div class="row">
+        <div class="col-md-4">
+            <a href="/Book/Search?query=kitap1">
+                <img src="~/images/offer-images/offer-1.jpg" alt="offer 1" class="img-fluid search-image">
+            </a>
+        </div>
+        <div class="col-md-4">
+            <a href="/Book/Search?query=kitap2">
+                <img src="~/images/offer-images/offer-2.jpg" alt="offer 2" class="img-fluid search-image">
+            </a>
+        </div>
+        <div class="col-md-4">
+            <a href="/Book/Search?query=kitap3">
+                <img src="~/images/offer-images/offer-3.jpg" alt="offer 3" class="img-fluid search-image">
+            </a>
+        </div>
+    </div>
+</div>
+
+@{
+    if (Model.Books == null || !Model.Books.Any())
+    {
+        <p>Gösterilecek kitap bulunamadı.</p>
+    }
+    else
+    {
+        ViewBag.SectionTitle = "En Çok Satanlar";
+        @await Html.PartialAsync("_BookCardSlider", Model.Books.Where(b => b.CategoryID == 1))
+    }
+
+    if (Model.Books == null || !Model.Books.Any())
+    {
+        <p>Gösterilecek kitap bulunamadı.</p>
+    }
+    else
+    {
+        ViewBag.SectionTitle = "Manga/Çizgi Roman";
+        @await Html.PartialAsync("_BookCardSlider", Model.Books.Where(b => b.CategoryID == 1))
+    }
+
+    if (Model.Books == null || !Model.Books.Any())
+    {
+        <p>Gösterilecek kitap bulunamadı.</p>
+    }
+    else
+    {
+        ViewBag.SectionTitle = "Bilim";
+        @await Html.PartialAsync("_BookCardSlider", Model.Books.Where(b => b.CategoryID == 1))
+    }
+}

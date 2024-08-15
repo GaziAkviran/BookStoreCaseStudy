@@ -1,0 +1,35 @@
+﻿@model PointBooks.Models.LoginModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="login-container">
+    <div class="login-form">
+        <h2 class="login-title">Giriş Yap</h2>
+        <form asp-action="Login" method="post">
+            <div class="form-group">
+                <label for="Email">E-Posta Adresi</label>
+                <input type="email" class="form-control" id="Email" name="Email" required>
+            </div>
+            <div class="form-group">
+                <label for="Password">Şifre</label>
+                <input type="password" class="form-control" id="Password" name="Password" required>
+                <a href="#" class="forgot-password">Şifremi Unuttum</a>
+            </div>
+            <div class="form-group">
+                <input type="checkbox" id="RememberMe" name="RememberMe">
+                <label for="RememberMe">Beni Hatırla</label>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Giriş Yap</button>
+            </div>
+            <div class="form-group">
+                <a href="#" class="register-link">Hesabınız Yok Mu? Üye Olun</a>
+            </div>
+        </form>
+    </div>
+    <div class="login-image">
+        <img src="~/images/login-img.jpg" alt="Login Image">
+    </div>
+</div>

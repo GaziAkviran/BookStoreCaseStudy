@@ -1,0 +1,70 @@
+﻿@model PointBooks.Models.Book
+
+@{
+    ViewBag.Title = "Kitap Ekle";
+}
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header text-center">
+                    <h4>Kitap Ekle</h4>
+                </div>
+                   
+                <div class="card-body">
+                    <form asp-action="AddBook" method="post">
+                        <div class="form-group">
+                            <label for="BookName">Kitap Adı</label>
+                            <input asp-for="BookName" class="form-control" placeholder="Kitap adını girin" />
+                            <span asp-validation-for="BookName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="CategoryID">Kategori</label>
+                            <input asp-for="CategoryID" class="form-control" placeholder="Kategori girin" />
+                            <span asp-validation-for="CategoryID" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="PublisherID">Yayınevi</label>
+                            <input asp-for="PublisherID" class="form-control" placeholder="Yayınevi girin" />
+                            <span asp-validation-for="PublisherID" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="Price">Fiyat</label>
+                            <input asp-for="Price" class="form-control" placeholder="Fiyat girin" />
+                            <span asp-validation-for="Price" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="Language">Dil</label>
+                            <input asp-for="Language" class="form-control" placeholder="Dil girin" />
+                            <span asp-validation-for="Language" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="PublicationYear">Yayın Yılı</label>
+                            <input asp-for="PublicationYear" class="form-control" placeholder="Yayın yılını girin" />
+                            <span asp-validation-for="PublicationYear" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="Stock">Stok</label>
+                            <input asp-for="Stock" class="form-control" placeholder="Stok miktarını girin" />
+                            <span asp-validation-for="Stock" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="ImagePath">Görsel Yolu</label>
+                            <input asp-for="ImagePath" class="form-control" placeholder="Görsel yolunu girin" />
+                            <span asp-validation-for="ImagePath" class="text-danger"></span>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-block">Ekle</button>
+                        <a asp-action="Index" class="btn btn-secondary btn-block">Geri Dön</a>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

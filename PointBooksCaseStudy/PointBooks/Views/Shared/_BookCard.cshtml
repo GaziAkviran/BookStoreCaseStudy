@@ -1,0 +1,14 @@
+﻿@using PointBooks.Models
+@model Book
+
+<div class="card">
+    <img class="card-img-top" src="@Url.Content("/" + Model.ImagePath.TrimStart('~'))" alt="Book image">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Title</h5>
+        <p class="card-text">@Model.Price.ToString() TL</p>
+    </div>
+
+    <div class="add-to-cart-container">
+        <button class="btn btn-primary">Sepete Ekle</button>
+    </div>
+</div>

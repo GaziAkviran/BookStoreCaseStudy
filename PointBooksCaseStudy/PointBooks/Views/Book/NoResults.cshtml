@@ -1,0 +1,22 @@
+﻿@* Views/Book/NoResults.cshtml *@
+@model string
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sonuç Bulunamadı</title>
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" />
+</head>
+<body>
+    <div class="container mt-5">
+        <h2>Aradığınız kriterlere uygun kitap bulunamadı.</h2>
+        @if (!string.IsNullOrEmpty(Model))
+        {
+            <p class="text-muted">@Model</p>
+        }
+        <a href="/" class="btn btn-primary mt-3">Anasayfaya Dön</a>
+    </div>
+</body>
+</html>

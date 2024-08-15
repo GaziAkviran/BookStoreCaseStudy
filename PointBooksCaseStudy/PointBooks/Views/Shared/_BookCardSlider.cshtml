@@ -1,0 +1,19 @@
+﻿@using PointBooks.Models
+@model IEnumerable<Book>
+
+<div class="book-container">
+    <h2>@ViewBag.SectionTitle</h2>
+    <div class="book-slider-container">
+        <div class="book-slider">
+            @foreach (var book in Model)
+            {
+                <div class="col-md-3">
+                    @await Html.PartialAsync("_BookCard", book)
+                </div>
+            }
+        </div>
+
+        <button class="prev-btn">&lt;</button>
+        <button class="next-btn">&gt;</button>
+    </div>
+</div>

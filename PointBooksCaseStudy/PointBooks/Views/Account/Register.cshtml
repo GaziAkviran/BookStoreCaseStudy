@@ -1,0 +1,51 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container register-container">
+    <div class="row justify-content-between align-items-center">
+        <div class="col-md-6">
+            <h2 class="mb-4">Üye Ol</h2>
+            <form asp-action="Register" method="post">
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="Name">Adınız</label>
+                        <input type="text" class="form-control" id="Name" name="Name" required>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="Surname">Soyadınız</label>
+                        <input type="text" class="form-control" id="Surname" name="Surname" required>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="Email">E-posta Adresiniz</label>
+                    <input type="email" class="form-control" id="Email" name="Email" required>
+                </div>
+                <div class="form-group">
+                    <label for="Password">Şifre</label>
+                    <input type="password" class="form-control" id="Password" name="Password" required>
+                    <small class="form-text text-muted">6 Karakter, 1 Harf, 1 Rakam</small>
+                </div>
+                <div class="form-group form-check">
+                    <input type="checkbox" class="form-check-input" id="MarketingConsent" name="MarketingConsent">
+                    <label class="form-check-label" for="MarketingConsent">Ticari elektronik ileti gönderilmesi için izin veriyorum.</label>
+                </div>
+                <div class="form-group form-check">
+                    <input type="checkbox" class="form-check-input" id="TermsAgreement" name="TermsAgreement" required>
+                    <label class="form-check-label" for="TermsAgreement">Üyelik Sözleşmesi’ni okudum, onaylıyorum.</label>
+                </div>
+                <div class="form-group form-check">
+                    <input type="checkbox" class="form-check-input" id="PrivacyPolicyAgreement" name="PrivacyPolicyAgreement" required>
+                    <label class="form-check-label" for="PrivacyPolicyAgreement">Üyelik Aydınlatma Metni’ni okudum, anladım.</label>
+                </div>
+                <button type="submit" class="btn btn-primary btn-block">Üye Ol</button>
+            </form>
+            <div class="text-center mt-3">
+                <a href="@Url.Action("Login", "Account")">Hesabınız Var mı? Giriş Yapın</a>
+            </div>
+        </div>
+        <div class="col-md-5 d-none d-md-block">
+            <img src="~/images/login-img.jpg" class="img-fluid rounded" alt="Register Image">
+        </div>
+    </div>
+</div>

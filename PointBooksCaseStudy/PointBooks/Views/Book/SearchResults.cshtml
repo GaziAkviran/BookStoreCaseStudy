@@ -1,0 +1,139 @@
+﻿@model PointBooks.Models.ViewModels.SearchViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row mt-4">
+
+        <!-- Filters -->
+        <div class="col-md-3">
+            <div class="filter-section">
+                <h5>Filtreler</h5>
+
+                <!-- Categories -->
+                <h6>Tüm Kategoriler</h6>
+                <ul class="list-unstyled">
+                    <li><a href="#">Kitap</a></li>
+                    <li><a href="#">E-Kitap</a></li>
+                    <li><a href="#">Kırtasiye</a></li>
+                </ul>
+
+                <!-- Publishers -->
+                <form id="filterForm" method="get" action="@Url.Action("Search", "Book")">
+                    <input type="hidden" name="query" value="@Model.Query" />
+
+                    <h6>Yayınevi</h6>
+                    <ul class="list-unstyled">
+                        @foreach (var publisher in Model.PublisherCounts)
+                        {
+                            <li>
+                                <input type="checkbox" name="selectedPublishers" value="@publisher.PublisherName"
+                                       onchange="document.getElementById('filterForm').submit();" />
+                                @publisher.PublisherName (@publisher.BookCount)
+                            </li>
+                        }
+                    </ul>
+
+                    <h6>Yazarlar</h6>
+                    <ul class="list-unstyled">
+                        @foreach (var authorCount in Model.AuthorCounts)
+                        {
+                            <li>
+                                <input type="checkbox" name="selectedAuthors" value="@authorCount.AuthorName"
+                                       onchange="document.getElementById('filterForm').submit();" />
+                                @authorCount.AuthorName (@authorCount.BookCount)
+                            </li>
+                        }
+                    </ul>
+                </form>
+
+                <!-- Price -->
+                <div class="price-filter">
+                    <h5 class="mb-3">Fiyat</h5>
+                    <form id="priceFilterForm" method="get" action="@Url.Action("FilterByPrice", "Book")">
+                        <div class="input-group mb-3">
+                            <input type="number" name="minPrice" id="minPrice" placeholder="min" class="form-control" aria-label="Minimum Price">
+                            <span class="input-group-text">-</span>
+                            <input type="number" name="maxPrice" id="maxPrice" placeholder="max" class="form-control" aria-label="Maximum Price">
+                            <button type="submit" class="btn btn-primary">
+                                <i class="fas fa-search"></i>
+                            </button>
+                        </div>
+                        <ul class="list-group">
+                            <li class="list-group-item">
+                                <input type="radio" name="priceRange" value="0-50" id="price1" onclick="submitPriceRange(0, 50)">
+                                <label for="price1">0 TL - 50 TL <span class="badge bg-secondary"></span></label>
+                            </li>
+                            <li class="list-group-item">
+                                <input type="radio" name="priceRange" value="50-100" id="price2" onclick="submitPriceRange(50, 100)">
+                                <label for="price2">50 TL - 100 TL <span class="badge bg-secondary"></span></label>
+                            </li>
+                            <li class="list-group-item">
+                                <input type="radio" name="priceRange" value="100-150" id="price3" onclick="submitPriceRange(100, 150)">
+                                <label for="price3">100 TL - 150 TL <span class="badge bg-secondary"></span></label>
+                            </li>
+                            <li class="list-group-item">
+                                <input type="radio" name="priceRange" value="150-200" id="price4" onclick="submitPriceRange(150, 200)">
+                                <label for="price4">150 TL - 200 TL <span class="badge bg-secondary"></span></label>
+                            </li>
+                            <li class="list-group-item">
+                                <input type="radio" name="priceRange" value="200-250" id="price5" onclick="submitPriceRange(200, 250)">
+                                <label for="price5">200 TL - 250 TL <span class="badge bg-secondary"></span></label>
+                            </li>
+                            <li class="list-group-item">
+                                <input type="radio" name="priceRange" value="250+" id="price6" onclick="submitPriceRange(250, null)">
+                                <label for="price6">250 TL ve üzeri <span class="badge bg-secondary"></span></label>
+                            </li>
+                        </ul>
+                    </form>
+                </div>
+
+               
+            </div>
+        </div>
+
+        <!-- Search Results -->
+        <div class="col-md-9">
+            <div class="sort-options mb-3 d-flex justify-content-end">
+                <select class="form-select" onchange="sortBooks(this.value)">
+                    <option >Önerilen</option>
+                    <option value="price-asc">En Düşük Fiyat</option>
+                    <option value="price-desc">En Yüksek Fiyat</option>
+                    <option value="a-z">A-Z</option>
+                </select>
+            </div>
+            <div class="search-results-section">
+                <h4>"@Model.Query" için arama sonuçları</h4>
+                <div class="result-count">@Model.Books.Count() ürün listelenmektedir.</div>
+
+                <!-- Book Cards -->
+                <div class="row">
+                    @foreach (var book in Model.Books)
+                    {
+                        <div class="col-md-4 mb-4">
+                            @await Html.PartialAsync("_BookCard", book)
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function submitPriceRange(min, max) {
+        document.getElementById('minPrice').value = min;
+        document.getElementById('maxPrice').value = max !== null ? max : '';
+        document.getElementById('priceFilterForm').submit();
+    }
+</script>
+
+<script>
+    function sortBooks(sortBy) {
+        const urlParams = new URLSearchParams(window.location.search);
+        urlParams.set('sortBy', sortBy);
+        window.location.search = urlParams.toString();
+    }
+</script>

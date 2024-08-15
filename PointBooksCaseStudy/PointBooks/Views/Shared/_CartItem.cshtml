@@ -1,0 +1,10 @@
+﻿@using PointBooks.Models
+
+<div class="cart-item d-flex align-items-center mb-3">
+    <img src="@Model.ImagePath" alt="@Model.Title" class="img-thumbnail" style="width: 60px;">
+    <div class="ms-2">
+        <p class="mb-0">@Model.Title</p>
+        <small class="text-muted">@Model.Type</small>
+        <p class="text-end">@Model.Price.ToString("C")</p>
+    </div>
+</div>

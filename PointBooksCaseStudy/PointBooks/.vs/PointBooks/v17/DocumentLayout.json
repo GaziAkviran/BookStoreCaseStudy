@@ -1,0 +1,1227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\views\\shared\\_topbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:views\\shared\\_topbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\views\\shared\\_cartitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:views\\shared\\_cartitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\views\\shared\\_bookcardslider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:views\\shared\\_bookcardslider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\views\\shared\\_bookcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:views\\shared\\_bookcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\views\\book\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:views\\book\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\views\\book\\noresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:views\\book\\noresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\views\\admin\\editbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:views\\admin\\editbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\views\\admin\\booklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:views\\admin\\booklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\views\\admin\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:views\\admin\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\repositories\\publisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:repositories\\publisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\repositories\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:repositories\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\repositories\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:repositories\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\repositories\\bookauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:repositories\\bookauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\models\\publishercount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:models\\publishercount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\models\\bookauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:models\\bookauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\models\\authorcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:models\\authorcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\models\\viewmodels\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:models\\viewmodels\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\models\\viewmodels\\homeindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:models\\viewmodels\\homeindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\models\\viewmodels\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:models\\viewmodels\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\data\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:data\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\controllers\\mvccontrollers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:controllers\\mvccontrollers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\controllers\\mvccontrollers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:controllers\\mvccontrollers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\controllers\\mvccontrollers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:controllers\\mvccontrollers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\controllers\\mvccontrollers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:controllers\\mvccontrollers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\controllers\\apicontrollers\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:controllers\\apicontrollers\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\controllers\\apicontrollers\\roleapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:controllers\\apicontrollers\\roleapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\controllers\\apicontrollers\\publisherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:controllers\\apicontrollers\\publisherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\controllers\\apicontrollers\\orderitemapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:controllers\\apicontrollers\\orderitemapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\controllers\\apicontrollers\\orderapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:controllers\\apicontrollers\\orderapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\controllers\\apicontrollers\\categoryapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:controllers\\apicontrollers\\categoryapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\controllers\\apicontrollers\\cartitemapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:controllers\\apicontrollers\\cartitemapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\controllers\\apicontrollers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:controllers\\apicontrollers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\controllers\\apicontrollers\\bookauthorapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:controllers\\apicontrollers\\bookauthorapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\controllers\\apicontrollers\\bookapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:controllers\\apicontrollers\\bookapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\controllers\\apicontrollers\\authorapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:controllers\\apicontrollers\\authorapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\controllers\\apicontrollers\\accountapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:controllers\\apicontrollers\\accountapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|c:\\users\\gazia\\desktop\\medicalpoint\\pointbookscasestudy\\pointbooks\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9F97F1C4-65D0-41EF-ADEB-6BEFA86C33F2}|PointBooks.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 141,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:09:45.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T15:09:43.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Topbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Shared\\_Topbar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Topbar.cshtml",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Shared\\_Topbar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Topbar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T15:09:37.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Navbar.cshtml",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Navbar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T15:09:36.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T15:09:35.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T15:09:33.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_CartItem.cshtml",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Shared\\_CartItem.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_CartItem.cshtml",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Shared\\_CartItem.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_CartItem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T15:09:32.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_BookCardSlider.cshtml",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Shared\\_BookCardSlider.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_BookCardSlider.cshtml",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Shared\\_BookCardSlider.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_BookCardSlider.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T15:09:31.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_BookCard.cshtml",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Shared\\_BookCard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_BookCard.cshtml",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Shared\\_BookCard.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_BookCard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T15:09:30.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T15:09:24.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SearchResults.cshtml",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Book\\SearchResults.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\SearchResults.cshtml",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Book\\SearchResults.cshtml",
+              "RelativeToolTip": "Views\\Book\\SearchResults.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T15:09:13.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NoResults.cshtml",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Book\\NoResults.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\NoResults.cshtml",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Book\\NoResults.cshtml",
+              "RelativeToolTip": "Views\\Book\\NoResults.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T15:09:11.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Admin\\EditBook.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\EditBook.cshtml",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Admin\\EditBook.cshtml",
+              "RelativeToolTip": "Views\\Admin\\EditBook.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T15:09:09.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T15:09:06.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookList.cshtml",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Admin\\BookList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\BookList.cshtml",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Admin\\BookList.cshtml",
+              "RelativeToolTip": "Views\\Admin\\BookList.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T15:09:04.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Admin\\AddBook.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AddBook.cshtml",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Admin\\AddBook.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AddBook.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T15:09:01.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T15:08:56.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T15:08:54.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Services\\CartService.cs",
+              "RelativeToolTip": "Services\\CartService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:52.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Services\\BookService.cs",
+              "RelativeToolTip": "Services\\BookService.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:48.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:47.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "Repositories\\RoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:45.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PublisherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\PublisherRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PublisherRepository.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\PublisherRepository.cs",
+              "RelativeToolTip": "Repositories\\PublisherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:44.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:43.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\OrderItemRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderItemRepository.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\OrderItemRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:42.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Repositories\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:40.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:36.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:34.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "Repositories\\CartRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:31.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CartItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\CartItemRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CartItemRepository.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\CartItemRepository.cs",
+              "RelativeToolTip": "Repositories\\CartItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:29.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Repositories\\BookRepository.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:22.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BookAuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\BookAuthorRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookAuthorRepository.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\BookAuthorRepository.cs",
+              "RelativeToolTip": "Repositories\\BookAuthorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:19.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "Repositories\\AuthorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:18.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:16.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:07.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Models\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:06.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PublisherCount.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\PublisherCount.cs",
+              "RelativeDocumentMoniker": "Models\\PublisherCount.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\PublisherCount.cs",
+              "RelativeToolTip": "Models\\PublisherCount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:06.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "Models\\Publisher.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\Publisher.cs",
+              "RelativeToolTip": "Models\\Publisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:05.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:04.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:03.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:02.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:02.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:08:01.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:07:59.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BookAuthor.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\BookAuthor.cs",
+              "RelativeDocumentMoniker": "Models\\BookAuthor.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\BookAuthor.cs",
+              "RelativeToolTip": "Models\\BookAuthor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:07:58.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:07:57.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AuthorCount.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\AuthorCount.cs",
+              "RelativeDocumentMoniker": "Models\\AuthorCount.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\AuthorCount.cs",
+              "RelativeToolTip": "Models\\AuthorCount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:07:56.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SearchViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\ViewModels\\SearchViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\SearchViewModel.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\ViewModels\\SearchViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\SearchViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:07:54.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:07:53.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "HomeIndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\ViewModels\\HomeIndexViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\HomeIndexViewModel.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\ViewModels\\HomeIndexViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\HomeIndexViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:07:52.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\ViewModels\\CartViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\CartViewModel.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Models\\ViewModels\\CartViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\CartViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:07:50.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Data\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Data\\DatabaseInitializer.cs",
+              "RelativeToolTip": "Data\\DatabaseInitializer.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:07:41.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Data\\DapperContext.cs",
+              "RelativeDocumentMoniker": "Data\\DapperContext.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Data\\DapperContext.cs",
+              "RelativeToolTip": "Data\\DapperContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:07:39.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\MvcControllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MvcControllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\MvcControllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\MvcControllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:07:37.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\MvcControllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MvcControllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\MvcControllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\MvcControllers\\BookController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:07:22.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\MvcControllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MvcControllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\MvcControllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\MvcControllers\\AdminController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:07:19.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\MvcControllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MvcControllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\MvcControllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\MvcControllers\\AccountController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:06:58.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UserApiController.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\UserApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApiControllers\\UserApiController.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\UserApiController.cs",
+              "RelativeToolTip": "Controllers\\ApiControllers\\UserApiController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:06:53.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RoleApiController.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\RoleApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApiControllers\\RoleApiController.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\RoleApiController.cs",
+              "RelativeToolTip": "Controllers\\ApiControllers\\RoleApiController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:06:50.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "PublisherApiController.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\PublisherApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApiControllers\\PublisherApiController.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\PublisherApiController.cs",
+              "RelativeToolTip": "Controllers\\ApiControllers\\PublisherApiController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:06:47.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "OrderItemApiController.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\OrderItemApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApiControllers\\OrderItemApiController.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\OrderItemApiController.cs",
+              "RelativeToolTip": "Controllers\\ApiControllers\\OrderItemApiController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:06:43.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "OrderApiController.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\OrderApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApiControllers\\OrderApiController.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\OrderApiController.cs",
+              "RelativeToolTip": "Controllers\\ApiControllers\\OrderApiController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:06:39.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CategoryApiController.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\CategoryApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApiControllers\\CategoryApiController.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\CategoryApiController.cs",
+              "RelativeToolTip": "Controllers\\ApiControllers\\CategoryApiController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:06:36.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CartItemApiController.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\CartItemApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApiControllers\\CartItemApiController.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\CartItemApiController.cs",
+              "RelativeToolTip": "Controllers\\ApiControllers\\CartItemApiController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:06:32.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CartApiController.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\CartApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApiControllers\\CartApiController.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\CartApiController.cs",
+              "RelativeToolTip": "Controllers\\ApiControllers\\CartApiController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAuwDsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:06:02.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "BookAuthorApiController.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\BookAuthorApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApiControllers\\BookAuthorApiController.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\BookAuthorApiController.cs",
+              "RelativeToolTip": "Controllers\\ApiControllers\\BookAuthorApiController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:05:57.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "BookApiController.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\BookApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApiControllers\\BookApiController.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\BookApiController.cs",
+              "RelativeToolTip": "Controllers\\ApiControllers\\BookApiController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:05:53.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "AuthorApiController.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\AuthorApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApiControllers\\AuthorApiController.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\AuthorApiController.cs",
+              "RelativeToolTip": "Controllers\\ApiControllers\\AuthorApiController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:05:48.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "AccountApiController.cs",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\AccountApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApiControllers\\AccountApiController.cs",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\Controllers\\ApiControllers\\AccountApiController.cs",
+              "RelativeToolTip": "Controllers\\ApiControllers\\AccountApiController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:05:39.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\script.js",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "wwwroot\\js\\script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-15T15:05:28.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AQIAAIkBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-15T15:04:08.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

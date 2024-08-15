@@ -1,0 +1,42 @@
+﻿@model PointBooks.Models.Book
+
+<div class="container mt-5">
+    <h2 class="mb-4">Kitap Düzenle</h2>
+
+    <form asp-action="EditBook" method="post">
+        <div class="mb-3">
+            <label for="Title" class="form-label">Kitap Adı</label>
+            <input type="text" class="form-control" id="Title" name="Title" value="@Model.Title" required />
+        </div>
+        <div class="mb-3">
+            <label for="CategoryID" class="form-label">Kategori</label>
+            <input type="number" class="form-control" id="CategoryID" name="CategoryID" value="@Model.CategoryID" required />
+        </div>
+        <div class="mb-3">
+            <label for="PublisherID" class="form-label">Yayınevi</label>
+            <input type="number" class="form-control" id="PublisherID" name="PublisherID" value="@Model.PublisherID" required />
+        </div>
+        <div class="mb-3">
+            <label for="Price" class="form-label">Fiyat</label>
+            <input type="number" class="form-control" id="Price" name="Price" value="@Model.Price" step="0.01" required />
+        </div>
+        <div class="mb-3">
+            <label for="Language" class="form-label">Dil</label>
+            <input type="text" class="form-control" id="Language" name="Language" value="@Model.Language" required />
+        </div>
+        <div class="mb-3">
+            <label for="PublicationYear" class="form-label">Yayın Yılı</label>
+            <input type="number" class="form-control" id="PublicationYear" name="PublicationYear" value="@Model.PublicationYear" required />
+        </div>
+        <div class="mb-3">
+            <label for="Stock" class="form-label">Stok</label>
+            <input type="number" class="form-control" id="Stock" name="Stock" value="@Model.Stock" required />
+        </div>
+        <div class="mb-3">
+            <label for="ImagePath" class="form-label">Görsel Yolu</label>
+            <input type="text" class="form-control" id="ImagePath" name="ImagePath" value="@Model.ImagePath" required />
+        </div>
+        <button type="submit" class="btn btn-primary">Güncelle</button>
+        <a asp-action="BookList" class="btn btn-secondary ms-2">Geri Dön</a>
+    </form>
+</div>

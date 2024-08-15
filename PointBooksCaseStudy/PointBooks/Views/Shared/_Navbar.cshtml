@@ -1,0 +1,36 @@
+﻿
+<nav class="navbar navbar-expand-lg navbar-light bg-light" id="mainNav">
+    <div class="container">
+        <a class="navbar-brand" href="#">PointBooks</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav mx-auto justify-content-center">
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("SearchByCategory", "Book", new { categoryId = 0 })">Tüm Kitaplar</a>
+                </li>
+                 <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("SearchByCategory", "Book", new { categoryId = 1 })">Roman</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("SearchByCategory", "Book", new { categoryId = 11 })">Çizgi Roman</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("SearchByCategory", "Book", new { categoryId = 9 })">Biyografi</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("SearchByCategory", "Book", new { categoryId = 12 })">Bilim</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("SearchByCategory", "Book", new { categoryId = 5 })">Tarih</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("SearchByCategory", "Book", new { categoryId = 3 })">Eğitim</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+

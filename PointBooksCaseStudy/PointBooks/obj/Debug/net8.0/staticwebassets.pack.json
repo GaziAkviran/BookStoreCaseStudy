@@ -1,0 +1,141 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\books\\arkadasi-suclamak.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\arkadasi-suclamak.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\books\\ates-ve-kan.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\ates-ve-kan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\books\\daha-adil.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\daha-adil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\books\\dark-souls-andolus-nefesi.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\dark-souls-andolus-nefesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\books\\deha-ataturk.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\deha-ataturk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\books\\fatih-sultan.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\fatih-sultan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\books\\guzellige-dogru.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\guzellige-dogru.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\books\\hayvanlardan.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\hayvanlardan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\books\\hyunam-dong-kitabevi.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\hyunam-dong-kitabevi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\books\\icindeki-utangac-deve-kusunu-nasil-egitirsin.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\icindeki-utangac-deve-kusunu-nasil-egitirsin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\books\\kadin-olmayi.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\kadin-olmayi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\books\\kelimenin-ham-anlamiyla.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\kelimenin-ham-anlamiyla.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\books\\nutuk.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\nutuk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\books\\ripleyin-oyunu.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\ripleyin-oyunu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\books\\savas-sanati.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\savas-sanati.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\books\\tuhaf.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\tuhaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\login-img.jpg",
+      "PackagePath": "staticwebassets\\images\\login-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\offer-images\\offer-1.jpg",
+      "PackagePath": "staticwebassets\\images\\offer-images\\offer-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\offer-images\\offer-2.jpg",
+      "PackagePath": "staticwebassets\\images\\offer-images\\offer-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\offer-images\\offer-3.jpg",
+      "PackagePath": "staticwebassets\\images\\offer-images\\offer-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\slider\\Slider1.png",
+      "PackagePath": "staticwebassets\\images\\slider\\Slider1.png"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\slider\\Slider2.png",
+      "PackagePath": "staticwebassets\\images\\slider\\Slider2.png"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\slider\\Slider3.png",
+      "PackagePath": "staticwebassets\\images\\slider\\Slider3.png"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\slider\\Slider4.png",
+      "PackagePath": "staticwebassets\\images\\slider\\Slider4.png"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\images\\slider\\Slider5.png",
+      "PackagePath": "staticwebassets\\images\\slider\\Slider5.png"
+    },
+    {
+      "Id": "C:\\Users\\gazia\\Desktop\\MedicalPoint\\PointBooksCaseStudy\\PointBooks\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PointBooks.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PointBooks.props",
+      "PackagePath": "build\\PointBooks.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PointBooks.props",
+      "PackagePath": "buildMultiTargeting\\PointBooks.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PointBooks.props",
+      "PackagePath": "buildTransitive\\PointBooks.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
